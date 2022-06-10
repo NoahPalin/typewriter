@@ -16,6 +16,5 @@ const charPrinter = function (char, time) {
 };
 
 const sentence = "hello there from lighthouse labs";
-
 letterPicker(sentence);
 
